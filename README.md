@@ -1,2 +1,1 @@
-# hello-world
-my first repository on github
+i love:apples:,:pizza:,and:dancer:.
